@@ -1,0 +1,43 @@
+INFO _internal.py 113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 113  * Restarting with stat
+WARNING _internal.py 113  * Debugger is active!
+INFO _internal.py 113  * Debugger PIN: 339-217-387
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:53:49] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:53:56] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:53:56] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:54:02] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:54:02] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 113  * Restarting with stat
+WARNING _internal.py 113  * Debugger is active!
+INFO _internal.py 113  * Debugger PIN: 339-217-387
+INFO _internal.py 113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 113  * Restarting with stat
+WARNING _internal.py 113  * Debugger is active!
+INFO _internal.py 113  * Debugger PIN: 339-217-387
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:58:08] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:24] "[37mOPTIONS //register HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:24] "[37mPOST //register HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:36] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:36] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:39] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:39] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 10:59:40] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:00:07] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:00:07] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:00:35] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:00:35] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 113  * Restarting with stat
+WARNING _internal.py 113  * Debugger is active!
+INFO _internal.py 113  * Debugger PIN: 339-217-387
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:01:47] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:01:55] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:01:55] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:01:57] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:16] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:23] "[37mOPTIONS /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:23] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:24] "[37mOPTIONS /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:25] "[37mGET /index HTTP/1.1[0m" 200 -
+INFO _internal.py 113 127.0.0.1 - - [09/Jul/2021 11:04:25] "[37mGET /index HTTP/1.1[0m" 200 -
